@@ -16,11 +16,11 @@ concorrência e expõe apenas os que estiverem respondendo corretamente.
 
 O projeto está disponível em ambiente público:
 
-- Painel em tempo real: https://proxy-webb.onrender.com/proxies-validos  
-- JSON dos proxies agregados: https://proxy-webb.onrender.com/proxies  
-- JSON dos proxies validados: https://proxy-webb.onrender.com/proxies-validos?format=json  
-- Stream SSE: https://proxy-webb.onrender.com/proxies-validos/stream  
-- Endpoint de configuração: https://proxy-webb.onrender.com/settings
+- Painel em tempo real: https://proxy-wbeb.onrender.com/proxies-validos  
+- JSON dos proxies agregados: https://proxy-wbeb.onrender.com/proxies  
+- JSON dos proxies validados: https://proxy-wbeb.onrender.com/proxies-validos?format=json  
+- Stream SSE: https://proxy-wbeb.onrender.com/proxies-validos/stream  
+- Endpoint de configuração: https://proxy-wbeb.onrender.com/settings
 
 > Observação: a instância gratuita do Render hiberna após alguns minutos
 > sem acessos. Se a página demorar para responder, aguarde alguns
